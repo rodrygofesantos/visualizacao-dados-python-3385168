@@ -1,8 +1,8 @@
 # Visualização de Dados com Python
 
-Este é o repositório do curso `[título do curso]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url]. 
+Este é o repositório do curso `Visualização de Dados com Python`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url]. 
 
-![Título completo do curso][lil-thumbnail-url]  
+![Visualização de Dados com Python][lil-thumbnail-url]  
 
 Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas. 
 
@@ -28,7 +28,7 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 
 ### Instrutor(a) 
 
-**Ana Cecília Vieira da Silva** 
+**Ana Cecília Vieira Silva** 
 
 Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-cecilia-vieira). 
 
